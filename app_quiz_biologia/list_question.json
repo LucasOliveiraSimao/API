@@ -1,1 +1,51 @@
-
+{
+  "questions": {
+    "list_of_questions": [
+      {
+        "id": 1,
+        "title": "Questão 1 (Unimep - RJ) Um homem apresenta o genótipo Aa Bb CC dd e sua esposa, o genótipo aa Bb cc Dd. Qual é a probabilidade desse casal ter um filho do sexo masculino e portador dos genes bb?",
+        "alternativeA": "a) 1/4",
+        "alternativeB": "b) 1/8",
+        "alternativeC": "c) 1/2",
+        "alternativeD": "d) nenhuma das anteriores",
+        "correctAnswer": 2
+      },
+      {
+        "id": 2,
+        "title": "Questão 2 Sobre a recombinação gênica é correto afirmar que:",
+        "alternativeA": "a) A recombinação gênica pode ser homóloga ou heteróloga.",
+        "alternativeB": "b) A principal diferença entre os tipos de recombinação é que ocorrem em etapas diferentes da mitose.",
+        "alternativeC": "c) A recombinação gênica é classificada em homóloga e não-homóloga.",
+        "alternativeD": "Enquanto um tipo de recombinação permite a variabilidade, o outro  tipo apresenta limitações.",
+        "correctAnswer": 3
+      },
+      {
+        "id": 3,
+        "title": "(UERJ) Sabe-se que a transmissão hereditária da cor das flores conhecidas como copo-de-leite se dá por herança mendeliana simples, com dominância completa. Em um cruzamento experimental de copos-de-leite  vermelhos, obteve-se uma primeira geração – F1 - bastante numerosa, numa  proporção de 3 descendentes vermelhos para cada branco (3:1). Analisando o  genótipo da F1, os cientistas constataram que apenas um em cada três  descendentes vermelhos era homozigoto para essa característica. \n De acordo  com tais dados, pode-se afirmar que a produção genotípica da F1 desse  cruzamento experimental foi:",
+        "alternativeA": "a) 4 Aa",
+        "alternativeB": "b) 2 Aa : 2 aa",
+        "alternativeC": "c) 3 AA : 1 Aa",
+        "alternativeD": "d) 1 AA : 2 Aa : 1 aa",
+        "correctAnswer": 4
+      },
+      {
+        "id": 4,
+        "title": "Questão 4 (Fatec) Pares de genes, com segregação independente podem agir,  conjuntamente, na determinação de uma mesma característica fenotípica. Este fenômeno é conhecido como:",
+        "alternativeA": "a) interação gênica",
+        "alternativeB": "b) epistasia",
+        "alternativeC": "c) poligenia",
+        "alternativeD": "d) dominância completa",
+        "correctAnswer": 4
+      },
+      {
+        "id": 5,
+        "title": "Questão 5 (Mack) A acondroplasia é um tipo de nanismo em que a cabeça e o tronco são normais, mas braços e pernas são muito curtos. É condicionado  por um gene dominante que, em homozigose, provoca a morte antes do nascimento. Os indivíduos normais são recessivos e os afetados são  heterozigotos. A probabilidade de um casal acondroplásico ter uma criança de sexo feminino normal é de:",
+        "alternativeA": "a) 1/6",
+        "alternativeB": "b) 1/8",
+        "alternativeC": "c) 2/5",
+        "alternativeD": "d) 1/2",
+        "correctAnswer": 1
+      }
+    ]
+  }
+}
